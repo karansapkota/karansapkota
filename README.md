@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karansapkota
-- 👀 I’m interested in Web developement and Data Science
+- 👀 I’m interested in Machine learning and Data Science
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
