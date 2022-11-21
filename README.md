@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=karansapkota)
 ### Hi  👋 I'm Karan Sapkota
 <h3 align="center">A Passionate Problem Solver and Machine Learning Enthusiast</h3>
-<a href="https://www.linkedin.com/in/karan-sapkota/">
-  <img align="left" alt="Karan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-<a href="https://twitter.com/KaranSapkota1">
-  <img align="left" alt="Karan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<p align="center">
 
+[![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-sapkota/)](https://www.linkedin.com/in/karan-sapkota/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tsusil?label=Follow&style=social)](https://twitter.com/KaranSapkota1)
+
+
+</p>
 
 <br />
 
