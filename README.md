@@ -9,7 +9,8 @@
   <img align="left" alt="Karan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<p> </p>
+
+<br />
 
 **Languages and Tools:** 
 
