@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=karansapkota)
-### Hi  👋 I'm Karan Sapkota
+### Hi  👋 I'm Karan Sapkota.
 <h3 align="center">A Passionate Problem Solver and Machine Learning Enthusiast</h3>
 
 <p align="center">
