@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=karansapkota)
-### Hi  👋 I'm Karan Sapkota. I am Data Science and Machine Learning Enthusiast with 6 months of personal experience in Applied DataScience Projects and Course material. I am well-informed on the latest Data Science and Machine Learning advancements. Ready to thrive in demanding Digital Intelligence. Looking forward to the opportunities for a learning experience where ever possible.
+### Hi  👋 I'm Karan Sapkota. I am an AI and MLEnthusiast with 6 months of personal experience in Applied DataScience Projects and Course material. I am well-informed on the latest Data Science and Machine Learning advancements. Ready to thrive in demanding Digital Intelligence. I look forward to the opportunities for a learning experience wherever possible.
 <h2 align="center">Machine Learning Enthusiast</h2>
 
 <p align="center">
