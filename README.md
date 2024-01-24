@@ -19,6 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"></code>
 <code><img height="20" src="https://pandas.pydata.org/static/img/pandas.svg"></code>
 <code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
+<code><img height="20" src="https://www.tensorflow.org/images/tf_logo_social.png"></code>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansapkota&show_icons=true&locale=en&layout=compact" alt="karansapkota" />
