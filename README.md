@@ -6,6 +6,7 @@
 
 [![Linkedin Follow](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-sapkota/)](https://www.linkedin.com/in/karan-sapkota/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tsusil?label=Follow&style=social)](https://twitter.com/KaranSapkota1)
+[![Facebook Follow](https://img.shields.io/badge/-Connect-1877f2?style=flat-square&logo=Facebook&logoColor=white&link=YOUR_FACEBOOK_PROFILE_LINK)](https://www.facebook.com/profile.php?id=100087326944490)
 
 
 </p>
