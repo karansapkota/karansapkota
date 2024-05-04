@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=karansapkota)
 ### Hey 👋👋👋 I'm Karan Sapkota. 
-<h2 align="center"> Self Taught - Software Developer </h2>
+<h2 align="center"> Autonomous Software Developer and Collaborative-Minded.  </h2>
 
 <p align="center">
 
