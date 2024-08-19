@@ -26,7 +26,7 @@
 <code><img height="30" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
 <code><img height="30" src="https://www.tensorflow.org/images/tf_logo_social.png"></code>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansapkota&show_icons=true&locale=en&layout=compact" alt="karansapkota" />
+
 
 <!--
 **karansapkota/karansapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
