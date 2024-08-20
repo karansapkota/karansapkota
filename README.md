@@ -24,7 +24,7 @@
 <code><img height="30" src="https://pandas.pydata.org/static/img/pandas.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"></code>
 <code><img height="30" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
-<code><img height="30" src="https://www.tensorflow.org/images/tf_logo_social.png"></code>
+
 
 
 
