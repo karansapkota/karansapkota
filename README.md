@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=karansapkota)
-### Hey 👋👋👋 I'm Karan Sapkota. 
-<h3 align="center"> Autonomous & Collaborative-Minded Software Enthusiast.  </h3>
+## Hey 👋👋👋 I'm Karan Sapkota. 
+<h2 align="center"> Autonomous & Collaborative-Minded Software Enthusiast.  </h2>
 
 <p align="center">
 
